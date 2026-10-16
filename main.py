@@ -173,7 +173,7 @@ def mostrar_menu():
     print("12. Tablas Resúmenes de puntos")
     print("13. Vídeo pronóstico INHAMI")
     print("14. Timestamp de vídeos")
-    print("0. Salir")
+    print("0. Salir del sistema")
 
 
 def ejecutar_menu():
